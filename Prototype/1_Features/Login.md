@@ -1,15 +1,18 @@
-# Feature: Name
+# Feature: Login 
 ## What should it do?
-(1-2 lines, simple description)
+Lets the users be redirected to their own Home page. 
 
 ## Why does it matter?
-(What user problem does it solve?)
+Users must view their own pages only. 
 
 ## Inputs
-(What does the user enter/click?)
+- e-mail 
+- password 
+- login button 
 
 ## Outputs
-(What happens as a result?)
+- DB checks if password match 
+- redirect to home page 
 
 ## Key components
 - Form
