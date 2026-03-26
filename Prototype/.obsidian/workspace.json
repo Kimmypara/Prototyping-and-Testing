@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Test Cases/Notification System.md",
+                "file": "2_Test Cases/Units/verification code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notification System"
+              "title": "verification code"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Test Cases/Notification System.md",
+                "file": "2_Test Cases/Units/verification code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Notification System"
+              "title": "Backlinks for verification code"
             }
           },
           {
@@ -199,6 +199,13 @@
   },
   "active": "fc131a54145f5a86",
   "lastOpenFiles": [
+    "3_Sprints/2026-03-26.md",
+    "2_Test Cases/Integration/Reset Password.md",
+    "2_Test Cases/Units/verification code.md",
+    "2_Test Cases/Units/_Template.md",
+    "Documentation/Pasted image 20260326194224.png",
+    "Documentation",
+    "3_Sprints/_Template.md",
     "Untitled.md",
     "2_Test Cases/Notification System.md",
     "2_Test Cases/Login.md",
@@ -209,7 +216,6 @@
     "1_Features/Login.md",
     "2_Test Cases/_Template.md",
     "1_Features/_Template.md",
-    "3_Sprints/_Template.md",
     "1_Feature/_Template.md",
     "1_Feature",
     "3_Sprints",
