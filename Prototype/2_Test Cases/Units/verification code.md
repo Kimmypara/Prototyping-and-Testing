@@ -15,20 +15,20 @@ Send an email to user with a verification code
 Xampp , database,  form with a Send Code button and email exists in db
 
 ## Test Steps
-1. Step
-2. by
-3. Step
+1. E-mail address 
+2. Send Code button 
+3. Check e-mail for code 
 
 ## Expected result
-What should happen(like IPO)
+The system will send a Code to the user's email
 
 ## Actual Result
-What happened?
+The user received an e-mail with the verification code 
 
 ## Issues Found
-Bugs/Problems
+Nil
 
 ## Action
-- Fix/adjust/retest
+Nil 
 
 

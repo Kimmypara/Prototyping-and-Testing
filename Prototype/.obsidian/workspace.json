@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Test Cases/Units/verification code.md",
+                "file": "3_Sprints/2026-03-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "verification code"
+              "title": "2026-03-28"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Test Cases/Units/verification code.md",
+                "file": "3_Sprints/2026-03-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for verification code"
+              "title": "Backlinks for 2026-03-28"
             }
           },
           {
@@ -200,12 +200,23 @@
   "active": "fc131a54145f5a86",
   "lastOpenFiles": [
     "3_Sprints/2026-03-26.md",
-    "2_Test Cases/Integration/Reset Password.md",
-    "2_Test Cases/Units/verification code.md",
+    "3_Sprints/2026-03-28.md",
+    "Documentation/Pasted image 20260328123308.png",
+    "Documentation/Pasted image 20260328123229.png",
+    "Documentation/Pasted image 20260328123142.png",
+    "Documentation/Pasted image 20260328123058.png",
+    "2_Test Cases/Units/1_E-mail address exist in db (verification code page).md",
+    "2_Test Cases/Units/1_E-mail address is empty  (verification code page) 1.md",
+    "2_Test Cases/Units/1_E-mail address is invalid (verification code page) 1.md",
+    "2_Test Cases/Units/1_E-mail address is not independent(verification code page) 1 1.md",
+    "2_Test Cases/Units/2_E-mail address exist in db (verification code page).md",
+    "2_Test Cases/Units/Verification code.md",
+    "3_Sprints/_Template.md",
+    "3_Sprints/_Template 1.md",
     "2_Test Cases/Units/_Template.md",
+    "2_Test Cases/Integration/Reset Password.md",
     "Documentation/Pasted image 20260326194224.png",
     "Documentation",
-    "3_Sprints/_Template.md",
     "Untitled.md",
     "2_Test Cases/Notification System.md",
     "2_Test Cases/Login.md",
