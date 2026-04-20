@@ -9,11 +9,9 @@ Reset password using verification code for authentication, email, password
 ## Tasks
 1. Login as Independent user
 2. Create a new account
-3. Set password 
-4. Input e-mail for verification code
-5. Get code from email
-6. Input code 
-7. Input password and confirm password 
+3. Get code from email
+4. Input code 
+5. Login
 ## Success Metric
 4/5 users reset password 
 
@@ -22,3 +20,9 @@ Allow users to login
 
 ## Possible Failure Points
 - 500 error
+
+## Actual Result
+The error message is shown on a different page 
+
+## Issues Found
+Redirected to other page before validation 
