@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Sprints/2026-04-24.md",
+                "file": "3_Sprints/2026-05-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-24"
+              "title": "2026-05-02"
             }
           },
           {
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_Sprints/2026-04-24.md",
+                "file": "3_Sprints/2026-05-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-04-24"
+              "title": "Backlinks for 2026-05-02"
             }
           },
           {
@@ -223,15 +223,16 @@
   },
   "active": "5823b13f77af62f8",
   "lastOpenFiles": [
-    "Documentation/Same Double file.png",
     "3_Sprints/2026-04-24.md",
+    "3_Sprints/2026-05-02.md",
+    "Documentation/Christina_REC.mp4",
+    "Documentation/Same Double file.png",
     "Documentation/double file.png",
     "Documentation/notification badges.png",
     "Documentation/Notification badge wrong place.png",
     "Documentation/No notifications.png",
     "Documentation/Pasted image 20260424174410.png",
     "Documentation/receive new submission(no notification).png",
-    "Documentation/Christina_REC.mp4",
     "Documentation/create account _REC.mp4",
     "Documentation/Empty_code.png",
     "Documentation/ind_resetpw_login_REC.mp4",
